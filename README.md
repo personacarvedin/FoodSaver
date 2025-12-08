@@ -1,13 +1,19 @@
+
+````md
 # 🍲 Food Saver
 
 ## Overview
 **Food Saver** is an npm-based web application designed to reduce food waste by connecting volunteers with leftover food providers. The goal is to ensure surplus meals reach those in need, fostering community support and sustainability.
+
+---
 
 ## Features
 - **Volunteer sign-up**: Individuals can register to help distribute food.
 - **Food provider portal**: Restaurants, households, or events can list available leftovers.
 - **Distribution tracking**: Monitor where food is going and who it helps.
 - **Community impact**: Build networks of care and reduce waste.
+
+---
 
 ## Installation
 Clone the repository and install dependencies:
@@ -18,8 +24,11 @@ cd food-saver
 npm install
 npm start
 npm run build
+````
 
-##Screenshots
+---
+
+## Screenshots
 
 ![Signup Signin Page](https://github.com/personacarvedin/FoodSaver/blob/main/signin_signup%20page.png?raw=true)
 
