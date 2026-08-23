@@ -25,7 +25,7 @@ function PrivateRoute({ children }) {
 // SidebarWrapper determines when to show the Sidebar
 function SidebarWrapper({ children }) {
   const location = useLocation();
-  // Add any paths here where you don't want the sidebar
+  // Add additional paths
   const hideSidebar = ["/login", "/signup"].includes(location.pathname);
   return (
     <div style={{ display: "flex" }}>
