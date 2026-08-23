@@ -112,7 +112,7 @@ h1, h2, h3, h4 {
   to { opacity: 1; transform: translateY(0);}
 }
 
-/* Optional: Dark mode support */
+/* Optional: Support for dark mode */
 body.dark-mode {
   background: #1e272e;
   color: #ecf0f1;
